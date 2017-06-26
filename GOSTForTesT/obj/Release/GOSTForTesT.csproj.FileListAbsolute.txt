@@ -1,0 +1,6 @@
+D:\prog\gost 0.2 -норм\GOSTForTesT\bin\Release\GOSTForTesT.exe.config
+D:\prog\gost 0.2 -норм\GOSTForTesT\bin\Release\GOSTForTesT.exe
+D:\prog\gost 0.2 -норм\GOSTForTesT\bin\Release\GOSTForTesT.pdb
+D:\prog\gost 0.2 -норм\GOSTForTesT\obj\Release\GOSTForTesT.csprojResolveAssemblyReference.cache
+D:\prog\gost 0.2 -норм\GOSTForTesT\obj\Release\GOSTForTesT.exe
+D:\prog\gost 0.2 -норм\GOSTForTesT\obj\Release\GOSTForTesT.pdb

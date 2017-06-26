@@ -1,0 +1,7 @@
+D:\prog\gost 0.2 -норм\UnitTestProject1\bin\Release\UnitTestProject1.dll
+D:\prog\gost 0.2 -норм\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+D:\prog\gost 0.2 -норм\UnitTestProject1\bin\Release\GOSTForTesT.exe
+D:\prog\gost 0.2 -норм\UnitTestProject1\bin\Release\GOSTForTesT.pdb
+D:\prog\gost 0.2 -норм\UnitTestProject1\obj\Release\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\prog\gost 0.2 -норм\UnitTestProject1\obj\Release\UnitTestProject1.dll
+D:\prog\gost 0.2 -норм\UnitTestProject1\obj\Release\UnitTestProject1.pdb

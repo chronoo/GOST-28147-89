@@ -1,0 +1,18 @@
+D:\prog\gost 0.1\gost 0.1\bin\Release\gost 0.1.exe.config
+D:\prog\gost 0.1\gost 0.1\bin\Release\gost 0.1.exe
+D:\prog\gost 0.1\gost 0.1\bin\Release\gost 0.1.pdb
+D:\prog\gost 0.1\gost 0.1\obj\Release\gost 0.1.exe
+D:\prog\gost 0.1\gost 0.1\obj\Release\gost 0.1.pdb
+D:\prog\gost 0.1\gost 0.1\obj\Release\gost 0.1.csprojResolveAssemblyReference.cache
+D:\prog\gost 0.2\gost 0.1\bin\Release\gost 0.1.exe.config
+D:\prog\gost 0.2\gost 0.1\obj\Release\gost 0.1.exe
+D:\prog\gost 0.2\gost 0.1\obj\Release\gost 0.1.pdb
+D:\prog\gost 0.2\gost 0.1\bin\Release\gost 0.1.exe
+D:\prog\gost 0.2\gost 0.1\bin\Release\gost 0.1.pdb
+D:\prog\gost 0.2\gost 0.1\obj\Release\gost 0.1.csprojResolveAssemblyReference.cache
+D:\prog\gost 0.2 -норм\gost 0.1\bin\Release\gost 0.1.exe.config
+D:\prog\gost 0.2 -норм\gost 0.1\obj\Release\gost 0.1.exe
+D:\prog\gost 0.2 -норм\gost 0.1\obj\Release\gost 0.1.pdb
+D:\prog\gost 0.2 -норм\gost 0.1\bin\Release\gost 0.1.exe
+D:\prog\gost 0.2 -норм\gost 0.1\bin\Release\gost 0.1.pdb
+D:\prog\gost 0.2 -норм\gost 0.1\obj\Release\gost 0.1.csprojResolveAssemblyReference.cache

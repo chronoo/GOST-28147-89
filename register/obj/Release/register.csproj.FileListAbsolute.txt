@@ -1,0 +1,22 @@
+D:\prog\gost 0.2\register\bin\Release\register.exe.config
+D:\prog\gost 0.2\register\obj\Release\register.csprojResolveAssemblyReference.cache
+D:\prog\gost 0.2\register\obj\Release\register.Form1.resources
+D:\prog\gost 0.2\register\obj\Release\register.Properties.Resources.resources
+D:\prog\gost 0.2\register\obj\Release\register.csproj.GenerateResource.Cache
+D:\prog\gost 0.2\register\bin\Release\register.exe
+D:\prog\gost 0.2\register\bin\Release\register.pdb
+D:\prog\gost 0.2\register\obj\Release\register.exe
+D:\prog\gost 0.2\register\obj\Release\register.pdb
+D:\prog\gost 0.2\register\obj\Release\register.Register.resources
+D:\prog\gost 0.2\register\obj\Release\register.Comparator.resources
+D:\prog\gost 0.2 -норм\register\bin\Release\register.exe.config
+D:\prog\gost 0.2 -норм\register\obj\Release\register.exe
+D:\prog\gost 0.2 -норм\register\obj\Release\register.pdb
+D:\prog\gost 0.2 -норм\register\bin\Release\register.exe
+D:\prog\gost 0.2 -норм\register\bin\Release\register.pdb
+D:\prog\gost 0.2 -норм\register\obj\Release\register.csprojResolveAssemblyReference.cache
+D:\prog\gost 0.2 -норм\register\obj\Release\register.Comparator.resources
+D:\prog\gost 0.2 -норм\register\obj\Release\register.Form1.resources
+D:\prog\gost 0.2 -норм\register\obj\Release\register.Properties.Resources.resources
+D:\prog\gost 0.2 -норм\register\obj\Release\register.Register.resources
+D:\prog\gost 0.2 -норм\register\obj\Release\register.csproj.GenerateResource.Cache
